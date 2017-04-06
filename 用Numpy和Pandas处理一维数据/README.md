@@ -1,6 +1,6 @@
 ### 用Numpy和Pandas处理一维数据　 
 　　数据集文件：</br>
-  　　　　　employment_above_15.csv：十五岁以上人口就业率</br>
+  　　　　employment_above_15.csv：十五岁以上人口就业率</br>
 　　　　life_expectancy.csv：平均寿命</br>
 　　　　gdp_per_capita.csv：人均GDP</br>
 　　　　male_completion_rate.csv：小学完成率（男生）</br>
